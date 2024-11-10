@@ -6,7 +6,7 @@
 
 <p align="center">Completely Responsive and Fetching Real Data From API</p>
 
-<a href="https://ohalukkarakaya.github.io/FlutterWeatherForecast/">
+<a href="https://ohalukkarakaya.github.io/flutter-weather-forecast/">
 <p align="center">
 <img width="175" src="https://user-images.githubusercontent.com/85846854/180302226-fa73f426-8346-486b-b668-2fb27311c642.png"/>
 </p>
